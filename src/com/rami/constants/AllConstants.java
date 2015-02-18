@@ -3,8 +3,8 @@ package com.rami.constants;
 public class AllConstants {
     
     public static final String URL                              = "https://www.24option.com";
-    public static final String USRNAME                          = "sarathrami";
-    public static final String PASSWORD                         = "375b61f527";
+    public static final String USRNAME                          = "<USR>";
+    public static final String PASSWORD                         = "<PASS>";
     
     public static final long   WEB_DRIVER_KILL_TIME             = 5 * 60000;
     public static final long   WEB_DRIVER_WAIT_FOR_LOAD         = 4000L;
